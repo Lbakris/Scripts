@@ -1,0 +1,2 @@
+cd desktop
+md CodingDojo\CodingDojo_Python\myEnvironments\templates CodingDojo\CodingDojo_Python\Python_Fundamentals\templates CodingDojo\CodingDojo_Python\Python_OOP\templates CodingDojo\CodingDojo_Python\Flask_Fundamentals\templates CodingDojo\CodingDojo_Python\Flask_MySQL\templates
